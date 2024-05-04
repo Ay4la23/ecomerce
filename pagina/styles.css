@@ -1,0 +1,77 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .brand {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .buttons {
+    display: flex;
+    font-family: "Arial", sans-serif;
+  }
+  
+  .button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: #555;
+    border: none;
+    color: white;
+    text-decoration: none;
+    font-family: "Arial", sans-serif;
+  }
+  
+  .button:hover {
+    background-color: #777;
+  }
+  .mid{
+    text-align: center;
+    background-color: black;
+    top: 50px; 
+    color: white;
+    padding: 10px 10px;
+    position: relative;
+    margin-top: 150px;
+    border-radius: 5cap;
+    box-shadow: white;
+  }
+  section.mid{
+    position: relative;
+    margin-left: 25%;
+    align-content: center;
+    width:50%;
+
+  }
+  
+#color{
+  background-color: blue;
+}
+.btn-cambio{
+  padding: 10px 20px;
+  background-color: white;
+  color: black;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  left: 20%;
+  font-family: "Arial", sans-serif;
+}
+.btn-cambio2{
+  padding: 10px 20px;
+  background-color: white;
+  color: black;
+  border: 2px solid white;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  left: 20%;
+  font-family: "Arial", sans-serif;
+}
+  
